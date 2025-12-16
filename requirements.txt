@@ -5,3 +5,5 @@ joblib
 matplotlib
 seaborn
 scikit-learn
+io
+soundfile
